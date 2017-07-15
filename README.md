@@ -35,14 +35,14 @@ Use a version control system to track how your code changes over time and make i
 
 Credits
 -------
-"intellectual property" by Arthur Shlain from the Noun Project. CC BY 3.0
-"Source Code" by Creative Stall from the Noun Project. CC BY 3.0
-"people" by TukTuk Design from the Noun Project. CC BY 3.0
-"Write" by Simon Keating from the Noun Project. CC0
-"spaceship" by Tatyana Kyul from the Noun Project. CC BY 3.0
-"Wikimedia Foundation logo - horizontal.svg" by Wikimedia Foundation. CC BY-SA
-3.0
-"CC BY-SA" by Creative Commons. CC BY 4.0
+* "intellectual property" by Arthur Shlain from the Noun Project. CC BY 3.0
+* "Source Code" by Creative Stall from the Noun Project. CC BY 3.0
+* "people" by TukTuk Design from the Noun Project. CC BY 3.0
+* "Write" by Simon Keating from the Noun Project. CC0
+* "spaceship" by Tatyana Kyul from the Noun Project. CC BY 3.0
+* "Wikimedia Foundation logo - horizontal.svg" by Wikimedia Foundation.
+  CC BY-SA 3.0
+* "CC BY-SA" by Creative Commons. CC BY 4.0
 
 Copyright © 2017, Bryan Davis & Wikimedia Foundation. Licensed under the
 Creative Commons Attribution-ShareAlike 4.0 International Public License.
