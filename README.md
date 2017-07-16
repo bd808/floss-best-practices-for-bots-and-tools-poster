@@ -18,9 +18,9 @@ The Wikimedia movement promotes open knowledge. Publishing your source code has 
 
 Have co-maintainers
 -------------------
-Everybody needs a day off now and then. Sometimes we even need a long wiki break to recharge. Having multiple maintainers makes taking time off easier without making your users or the Toolforge admins deal problems during your absence. A co-maintainer doesn't have to be a highly technical person. At the bare minimum, they should be able to restart things when they are down and shout for help when more complex problems occur.
+Everybody needs a day off now and then. Sometimes we even need a long wiki break to recharge. Having multiple maintainers makes taking time off easier without forcing your users or the Toolforge admins deal problems during your absence. A co-maintainer doesn't have to be a highly technical person. At the bare minimum, they should be able to restart things when they are down and shout for help when more complex problems occur.
 
-Don't forget to update your contact documentation so that others know who to poke when they have issues!
+Don't forget to update your tool's documentation so that others know who to poke when they have issues!
 
 
 Write some docs
